@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title:            Qingqi Shi
+title:            Qingqi Shi's Blog
 locale:           en_US
-url:
+url:              http://qingqi.me
 
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
