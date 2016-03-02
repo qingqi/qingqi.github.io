@@ -26,8 +26,8 @@ kramdown:
 
 # Site owner
 owner:
-  name: "施清棋"
-  englishName: "Qingqi Shi"
+  chineseName: "施清棋"
+  name: "Qingqi Shi"
   avatar: photo_bio_qingqi.jpg
   bio: "Backend Software Engineer, Basketball & Badminton, Movie & Music"
   email: iamsqq@gmail.com
