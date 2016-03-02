@@ -2,7 +2,7 @@
 
 title:            Qingqi Shi's Blog
 locale:           en_US
-url:              
+url:
 
 
 # Jekyll configuration
@@ -26,9 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: "Qingqi Shi"
+  name: "施清棋"
+  englishName: "Qingqi Shi"
   avatar: photo_bio_qingqi.jpg
-  bio: "Software Engineer, Basketball & Badminton, Movie & Music"
+  bio: "Backend Software Engineer, Basketball & Badminton, Movie & Music"
   email: iamsqq@gmail.com
   disqus-shortname:
   twitter: #username
@@ -56,6 +57,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+  wechat: "little_doggie"
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
